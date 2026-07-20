@@ -11,4 +11,4 @@ The workflow of the project includes data preprocessing, exploratory data analys
 and evaluation. The final model is capable of taking input features related to tumor characteristics and predicting the type of cancer.
 
 This project demonstrates how Machine Learning can be used in the healthcare domain to provide fast,
-accurate, and reliable predictions, supporting early diagnosis and better decision-making.
+accurate, and reliable predictions, supporting early diagnosis and better decision-making
